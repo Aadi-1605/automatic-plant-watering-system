@@ -114,7 +114,7 @@ The **Automatic Plant Watering System** is an embedded system project that autom
 
 <p align="center">
   Circuit:
-  <img src="circuit.jpeg" width="400"/>
+  <img src="circuit.png" width="400"/>
 </p>
 
 ---
