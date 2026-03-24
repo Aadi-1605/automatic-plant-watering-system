@@ -1,7 +1,7 @@
 # 🌱 Automatic Plant Watering System
 
 <p align="center">
-  <img src="images/project.jpg" width="400"/>
+  <img src="Mini-Proj-1.jpeg" width="400"/>
 </p>
 
 ## 📌 Overview
@@ -108,12 +108,14 @@ The **Automatic Plant Watering System** is an embedded system project that autom
 
 ---
 
-## 📷 Additional Images (Optional)
+## Embedded System Schema
 
-```md
-![Setup](Mini-Proj-1.jpeg)
-![Circuit](circuit.jpg)
-```
+
+
+<p align="center">
+  Circuit:
+  <img src="circuit.jpeg" width="400"/>
+</p>
 
 ---
 
