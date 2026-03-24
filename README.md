@@ -111,9 +111,8 @@ The **Automatic Plant Watering System** is an embedded system project that autom
 ## 📷 Additional Images (Optional)
 
 ```md
-![Setup](images/setup.jpg)
-![Circuit](images/circuit.jpg)
-![Working](images/working.jpg)
+![Setup](Mini Proj-1.jpeg)
+![Circuit](circuit.jpg)
 ```
 
 ---
